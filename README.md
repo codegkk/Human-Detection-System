@@ -17,7 +17,7 @@ Jumper Cables
 ## The Circuit
 *The circuit switches on LED1 or LED2 or LED3 or all LEDs depending on which sensor has detected a human being.*
 
-![]()
+![](circuitpicture.jpg.jpg)
 
 ## The GUI
 *When a human being is detected the arduino circuit then triggers a video to be played. If no human is detected then no video will be played.*
